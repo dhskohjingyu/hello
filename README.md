@@ -1,4 +1,4 @@
 hello
 =====
 
-First repository.
+First repository. Hello!
